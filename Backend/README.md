@@ -1,4 +1,4 @@
-# FullStack
+# TPBackend
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/tpis-2023/CC-Grupo-3k6-10/fullstack.git
+git remote add origin https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/tpis-2023/CC-Grupo-3k6-10/tpbackend.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/tpis-2023/CC-Grupo-3k6-10/fullstack/-/settings/integrations)
+- [ ] [Set up project integrations](https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/tpis-2023/CC-Grupo-3k6-10/tpbackend/-/settings/integrations)
 
 ## Collaborate with your team
 
